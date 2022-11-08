@@ -10,3 +10,4 @@
 
 3. Run `node index.js` to start the bot.
 "# sweepy" 
+"# sweepy2" 

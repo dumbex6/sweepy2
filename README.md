@@ -8,6 +8,3 @@
 
 2. Run either `npm install` or `yarn install`.
 
-3. Run `node index.js` to start the bot.
-"# sweepy" 
-"# sweepy2" 
